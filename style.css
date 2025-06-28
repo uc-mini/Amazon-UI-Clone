@@ -157,6 +157,33 @@ font-size: 30px;
     font-size: 0.85rem;
     font-weight: 700;
 }
+/** Panel **/
 
+.panel{
+height: 40px;
+background-color: #222f3d;
+display: flex;
+color: white;
+align-items: center;
+justify-content: space-evenly;
+}
+.panel-all{
+    padding: 8px 5px;
+}
+.panel-ops p {
+    display: inline;
+    margin-left: 15px; 
+    padding: 10px 5px;;
+}
+.panel-ops{
+    width:70% ;
+    font-size: 0.85rem;
+    
+}
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+    padding: 9px 5px;
+}
 
 
