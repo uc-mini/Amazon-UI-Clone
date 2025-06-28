@@ -119,24 +119,6 @@ margin-left: 3px;
 }
 /** box4 **/
 
-span{
-    font-size: 0.7rem;
-}
-.nav-second{
-    font-size: 0.85rem;
-    font-weight: 700;
-}
-
-/** box6 **/
-
-.nav-cart i {
-font-size: 30px;
-}
-.nav-cart{
-    font-size: 0.85rem;
-    font-weight: 700;
-}
-
 .nav-flag {
   display: flex;
   align-items: center;
@@ -155,5 +137,26 @@ font-size: 30px;
     font-size: small;
     font-weight: 700;
 }
+
+/** box5 **/
+
+span{
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/** box6 **/
+
+.nav-cart i {
+font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
 
 
